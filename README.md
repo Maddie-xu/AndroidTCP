@@ -1,1 +1,3 @@
-基于Socket的AndroidTCP通讯代码
+# 基于Socket的AndroidTCP通讯代码
+
+包括SockerClient和SocketServer
